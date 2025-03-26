@@ -19,6 +19,12 @@ Thus a game might continue on past 11 points until a player reaches 2 points hig
 A video demonstrating the game can be found here...
 https://www.youtube.com/watch?v=6fcaI3d6fmU
 
+Source code is here...
+https://github.com/jagaroth/Pong-Attack/blob/main/pong15_ino.ino
+
+Pre-compiled binary release is here...
+https://github.com/jagaroth/Pong-Attack/releases/tag/pong
+
 This is a work in progress.
 Do feel free to contribute or fork.
 
