@@ -1,6 +1,8 @@
-Lilygo T-Embed game
+"Pong Attack"
+A game for the Lilygo T-Embed
+https://lilygo.cc/products/t-embed-cc1101
 
-Written by Jus Godden 2025
+Game written by Jus Godden 2025
 
 Game play:
 It's a bit like Pong but you can also shoot at your opponent etc.
@@ -20,7 +22,7 @@ https://www.youtube.com/watch?v=6fcaI3d6fmU
 This is a work in progress.
 Do feel free to contribute or fork.
 
-Developed using Arduino IDE
+Developed using Arduino IDE and a Lilygo T-Embed CC1101
 
 To compile. First follow the Arduino IDE configuration guide found on this page...
 https://github.com/Xinyuan-LilyGO/T-Embed-CC1101
