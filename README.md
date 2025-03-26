@@ -7,6 +7,7 @@ It's a bit like Pong but you can also shoot at your opponent etc.
 Collect the different coloured diamonds to add additional weaponry, change bat size or add additional balls.
 Note that diamonds may also remove weapons and return bat size to default size.
 You can only collect diamonds floating towards your direction from the other side of the screen, not the diamonds floating towards your opponent.
+Getting shot enough times may also remove additional weaponry.
 
 Scoring:
 3 hits with a weapon is a point to the opposition. Failing to return the ball is also a point to the opposition.
