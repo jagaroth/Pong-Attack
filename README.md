@@ -4,6 +4,8 @@ https://lilygo.cc/products/t-embed-cc1101
 
 Game written by Jus Godden 2025
 
+[![Watch the video demonstration](https://i.ytimg.com/an_webp/6fcaI3d6fmU/mqdefault_6s.webp)](https://www.youtube.com/watch?v=6fcaI3d6fmU)
+
 Game play:
 It's a bit like Pong but you can also shoot at your opponent etc.
 Collect the different coloured diamonds to add additional weaponry, change bat size or add additional balls.
