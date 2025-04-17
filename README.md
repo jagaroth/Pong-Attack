@@ -1,5 +1,6 @@
 "Pong Attack"
-- A game for the Lilygo T-Embed
+
+A game for the Lilygo T-Embed
 https://lilygo.cc/products/t-embed-cc1101
 
 Game written by Jus Godden 2025
